@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact me 
 - email- dev.tabrej@gmail.com
-- LinkedIn- https://www.linkedin.com/in/tabrej-ali-b762ba205/
+- LinkedIn- https://www.linkedin.com/in/devtabrej/
 - 
 
 <!---
