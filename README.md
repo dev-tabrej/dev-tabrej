@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-tabrej
-- 👀 I’m interested in Full stack development 
-- 🌱 I’m currently learning JavaScript
+- 👀 Full stack development 
+- 🌱 AI/ML 
 - 📫 Contact me 
 - email- dev.tabrej@gmail.com
 - LinkedIn- https://www.linkedin.com/in/devtabrej/
